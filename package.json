@@ -1,0 +1,16 @@
+{
+  "name": "cm-gene-annotations",
+  "version": "1.0.0",
+  "description": "library for cmonkey gene annotations",
+  "main": "gene_annotations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cmonkey2",
+    "gene",
+    "annotations"
+  ],
+  "author": "Wei-ju Wu",
+  "license": "LGPL-3.0"
+}
